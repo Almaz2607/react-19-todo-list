@@ -1,3 +1,3 @@
 export function TodoListPage() {
-    return <h1>TodoList</h1>
+  return <h1>TodoList</h1>;
 }
